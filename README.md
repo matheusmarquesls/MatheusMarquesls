@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Hi name's Matheus
+Hi my name's Matheus
 
 <p align="left">
     
