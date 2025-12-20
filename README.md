@@ -3,6 +3,10 @@
 **`Desenvolvedor FullStack`**
 
 Hi my name's Matheus
+I'm full stack developer, with experience in Java (Spring Boot) on backend and React on frontend
+I have an interest in Cloud computing and cybersecurity 
+always learning, building, and improving
+
 
 <p align="left">
     
