@@ -34,11 +34,13 @@ _Always learning, building, and improving._
 
 <div align="left">
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusmarquesls&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&v=1" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=matheusmarquesls&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    alt="Matheus' Stats"
   />
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquesls&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=8&v=1" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquesls&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=8" 
+    alt="Top Languages"
   />
 </div>
