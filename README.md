@@ -12,36 +12,64 @@ _Always learning, building, and improving._
 
 ---
 
-### 🛠️ Languages and Technologies
-
-<div align="center">
-
-#### 💻 Linguagens
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+### 🖥️ Back-end
+<div align="left">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSharp.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
+</div>
 
-#### 🎨 Front-end
+---
+
+### 🌐 Front-end
+<div align="left">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-
-#### 🗄️ Banco de Dados
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-
-#### 🔌 Hardware / Embarcados
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
-
-#### 🧮 Ferramentas Científicas
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
-
-#### 🎨 Design
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+</div>
 
-#### ⚙️ Versionamento
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+---
 
+### 🗃️ Banco de Dados & Cache
+<div align="left">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis.svg">
+</div>
+
+---
+
+### ⚙️ DevOps & Infra
+<div align="left">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bitbucket-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Npm-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Yarn.svg">
+</div>
+
+---
+
+### 🧰 Ferramentas
+<div align="left">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/IntelliJ-Dark.svg">
+</div>
+
+---
+
+### 🐣 Aprendendo
+<div align="left">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
 </div>
 
 ### 📊 Statistics
