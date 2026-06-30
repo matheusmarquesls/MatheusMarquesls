@@ -35,7 +35,7 @@ _Always learning, building, and improving._
 
 ---
 
-### 🗃️ Banco de Dados & Cache
+### 🗃️ Databases & Cache
 <div align="left">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
@@ -44,7 +44,7 @@ _Always learning, building, and improving._
 
 ---
 
-### ⚙️ DevOps & Infra
+### ⚙️ DevOps & Infrastructure
 <div align="left">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">
@@ -59,7 +59,7 @@ _Always learning, building, and improving._
 
 ---
 
-### 🧰 Ferramentas
+### 🧰 Tools
 <div align="left">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg">
