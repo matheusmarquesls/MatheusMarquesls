@@ -46,6 +46,7 @@ _Always learning, building, and improving._
 
 ### ⚙️ DevOps & Infra
 <div align="left">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/aws.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/BitBucket-Dark.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
